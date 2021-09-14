@@ -1,0 +1,79 @@
+﻿  Game10969.cpp
+C:\code\Game10969\Game10969\level.h(2,1): warning C4005: 'MAX': macro redefinition
+C:\code\Game10969\Game10969\song.h(6): message : see previous definition of 'MAX'
+C:\code\Game10969\Game10969\kami5.h(2,1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+C:\code\Game10969\Game10969\Game10969.cpp : message : see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+C:\code\Game10969\Game10969\kami5.h(7,1): warning C4005: 'MAX': macro redefinition
+C:\code\Game10969\Game10969\level.h(2): message : see previous definition of 'MAX'
+C:\code\Game10969\Game10969\Game10969.cpp(42,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(42,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(43,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(43,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(44,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(44,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(45,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(45,33): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(46,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(46,31): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(161,108): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(162,108): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(163,108): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(164,108): warning C4244: 'argument': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\code\Game10969\Game10969\Game10969.cpp(390,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game10969.vcxproj -> C:\code\Game10969\x64\Debug\Game10969.exe
